@@ -1,0 +1,7 @@
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csprojAssemblyReference.cache
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\iloureiro.VP\source\repos\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
